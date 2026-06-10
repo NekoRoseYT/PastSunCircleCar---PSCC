@@ -3,7 +3,7 @@
 使用Unity + C# 从零开发的塔防游戏。
 
 ![展示](show.png)
-<a>https://www.bilibili.com/video/BV1jvE266EC9/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=3a0ec816dc84ed6f4e6fbfa57169f63d<\a>
+<a>https://www.bilibili.com/video/BV1jvE266EC9/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=3a0ec816dc84ed6f4e6fbfa57169f63d
 
 ## 核心功能
 
